@@ -15,4 +15,4 @@ J.A.R.V.I.S/
     ├── speech.py    # Speech recognition and text-to-speech
     ├── nlp.py       # Natural language processing
     └── vision.py    # Computer vision (optional)
-# F.R.I.D.A.Y
+# J.A.R.V.I.S.
